@@ -23,8 +23,8 @@
 
 }
 .mtk15,
-.mtk10,
-.monaco-editor .bracket-highlighting-4 {
+.mtk10
+ {
   color: #ff8b91;
 }
 .mtk15 {
@@ -59,30 +59,30 @@
   color: #00cafc;
   /* color: #61AFEF; */
 }
-.mtk18 {
-
+.mtk18
+ {
   color: #b58be6;
 /* color: #A86BFF; */
 }
 .mtk17 {
   font-style: italic;
 }
-/* .mtk7 {
-  color: transparent;
-  background-image: linear-gradient(var(--gradient-dir2), #ffb86c);
-  -webkit-background-clip: text;
-  background-clip: text;
-  -webkit-text-fill-color: transparent;
-} */
 
-/* .monaco-editor .bracket-highlighting-4 {
-  color: #e96269;
-} */
-.monaco-editor .bracket-highlighting-5 {
-  color: #20f3b2;
+.monaco-editor .bracket-highlighting-1{
+  color: #b58be6;
 }
+
 .monaco-editor .bracket-highlighting-2 {
   color: #00cafc;
+}
+.monaco-editor .bracket-highlighting-3 {
+  color: #ffcb6b;
+}
+.monaco-editor .bracket-highlighting-4{
+  color: #ff8b91;
+}
+.monaco-editor .bracket-highlighting-5 {
+  color: #20f3b2;
 }
 */
 /* Other */
